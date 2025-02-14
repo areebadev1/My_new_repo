@@ -1,2 +1,1 @@
-#third_repo
-c
+# third_repo
